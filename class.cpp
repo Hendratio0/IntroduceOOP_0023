@@ -24,3 +24,7 @@ public:
         cout << "harga mobil = " << harga_mobil << endl;
     }
 };
+
+int main()
+{
+}
