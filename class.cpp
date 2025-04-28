@@ -27,4 +27,9 @@ public:
 
 int main()
 {
+    Mobil GTR;
+    GTR.input_data();
+    cout << "nama mobil = " << GTR.nama_mobil << endl;
+    cout << "tipe mobil = " << GTR.tipe_mobil << endl;
+    GTR.output_data();
 }
